@@ -2678,7 +2678,7 @@ Este vídeo de Codely nos promueve que escribamos tests, no demasiados pero que 
 
 ---
 
-## 📱 PROGESSIVE WEB APPS (PWA)
+## 📱 PROGRESSIVE WEB APPS (PWA)
 
 ---
 
